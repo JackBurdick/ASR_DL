@@ -5,3 +5,5 @@ __pycache__/
 *.tar.gz
 *.pyc
 *.json
+LibriSpeech/dev-clean
+LibriSpeech/test-clean

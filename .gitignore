@@ -7,3 +7,4 @@ __pycache__/
 *.json
 LibriSpeech/dev-clean
 LibriSpeech/test-clean
+results/
